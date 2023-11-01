@@ -1,0 +1,100 @@
+1,tango,10000
+2,pop ice taro,5000
+3,pop ice mangga,3000
+4,pop ice leci,3000
+5,pop ice semangka,3000
+6,gelas beling,20000
+7,gelas kaca,10000
+8,piring awd,10000
+9,piring adasd,10000
+10,piring awdawda,10000
+11,piring awdasdz,10000
+12,piring awdawd,10000
+13,sabun muka kahf abu,30000
+14,sabun mandi,15000
+15,sampo rambut,12000
+16,sikat gigi,5000
+17,pasta gigi,7000
+18,sandal jepit,20000
+19,topi baseball,15000
+20,kacamata hitam,30000
+21,baju kaos putih,25000
+22,baju kemeja biru,35000
+23,celana jeans hitam,40000
+24,celana pendek biru,20000
+25,jaket kulit hitam,50000
+26,jaket hoodie abu-abu,45000
+27,tas ransel hitam,40000
+28,tas selempang cokelat,30000
+29,tas tangan merah,25000
+30,sandal pantai biru,15000
+31,sandal gunung hitam,25000
+32,sepatu olahraga putih,50000
+33,sepatu hak tinggi hitam,60000
+34,buku tulis kecil,5000
+35,buku tulis besar,10000
+36,pensil 2b,3000
+37,pensil warna 12pcs,15000
+38,penghapus besar,5000
+39,penggaris 30cm,7000
+40,stabilo highlighter 6 warna,25000
+41,stabilo ballpoint 10pcs,20000
+42,kertas hvs a4 1 rim,50000
+43,kertas foto glossy 4r 50 lembar,25000
+44,kertas karton warna 10 lembar,10000
+45,kartu ucapan terima kasih 10pcs,5000
+46,kartu nama 50pcs,15000
+47,bantal tidur bulu halus,40000
+48,guling polos warna-warni,25000
+49,sprei polos ukuran queen size,80000
+50,tas laundry mesh 3pcs,20000
+51, tas laptop hitam,40000
+52, mouse wireless,60000
+53, keyboard mekanik,90000
+54, monitor LED 24 inch,150000
+55, speaker bluetooth,80000
+56, earphone dengan mic,20000
+57, headset gaming,120000
+58, kabel USB printer 3 meter,20000
+59, printer inkjet all-in-one,100000
+60, toner printer HP original,500000
+61, kamera digital pocket Sony,700000
+62, baterai kamera cadangan Sony NP-BX1,300000
+63, tripod mini fleksibel untuk kamera,50000
+64, flashdisk 32 GB Sandisk,80000
+65, harddisk eksternal 1 TB WD Elements,900000
+66, powerbank kapasitas besar 20000 mAh,300000
+67, charger USB cepat dengan colokan EU dan US,50000
+68, adaptor universal untuk perjalanan internasional,100000
+69, kabel HDMI panjang 5 meter,50000
+70, TV LED 32 inch merk Samsung,2500000
+71, AC split 1/2 PK merk Panasonic,3500000
+72, kipas angin duduk,500000
+73, rice cooker 1.8 L merk Philips,700000
+74, blender merk Miyako,400000
+75, toaster merk Philips,500000
+76, kompor gas tanam 2 tungku merk Rinnai,2000000
+77, panci set 5 pcs merk Cosmos,1000000
+78, wajan teflon anti lengket,150000
+79, sendok garpu stainless steel set 12 pcs,200000
+80, pisau set dengan blok kayu,500000
+81, mug keramik dengan gambar lucu,50000
+82, teko kaca dengan filter stainless steel,150000
+83, botol minum stainless steel 500 ml,100000
+84, gantungan kunci akrilik dengan logo perusahaan,30000
+85, tumbler plastik dengan tutup dan sedotan,80000
+86, payung lipat dengan warna-warni cerah,50000
+87, tas pinggang kulit sintetis hitam,150000
+88, tas selempang kanvas army look dengan banyak saku,200000
+89, tas travel beroda ukuran besar,800000
+90, bantal tidur leher dengan memory foam,150000
+91, selimut bulu tebal dan lembut ukuran queen size,700000
+92, seprai katun jepang motif bunga-bunga ukuran king size,400000
+93, sarung bantal dan guling motif polkadot lucu,100000
+94, kursi lipat kayu jati dengan sandaran dan bantalan empuk,350000
+95, meja belajar anak-anak dengan kursi lipat dan rak buku,700000
+96, rak sepatu minimalis dengan 3 tingkat penyimpanan,200000
+97, tempat tidur besi ukuran queen size dengan bingkai melengkung elegan,1500000
+98, lemari pakaian minimalis dengan pintu geser dan cermin di bagian tengahnya,3000000
+99, sofa kulit asli dengan desain modern dan sandaran yang empuk,7000000
+100, meja makan kayu jati dengan kursi matching untuk enam orang dan ukiran indah di bagian pinggirnya,12000000
